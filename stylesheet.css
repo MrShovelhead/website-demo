@@ -68,6 +68,24 @@ section{
   
 }
 
+#img-bonde-og-kone{
+    display: block;      
+  margin: 20px auto;   
+  width: 100%;        
+  max-width: 250px;    
+  height: auto;        
+  border-radius: 8px;  
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+
 
 footer{
     display: block;
